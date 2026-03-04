@@ -1,3 +1,5 @@
+library;
+
 import 'package:flutter_rust_bridge/flutter_rust_bridge_for_generated.dart';
 import 'package:rust_quick_sort/src/models/quick_field.dart';
 import 'package:rust_quick_sort/src/rust/api/sort.dart';
