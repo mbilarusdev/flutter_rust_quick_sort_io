@@ -13,6 +13,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_rust_bridge: 2.11.1
   freezed_annotation: ^3.1.0
+  rust_lib_rust_quick_sort:
+    path: rust_builder
 
 dev_dependencies:
   flutter_test:
