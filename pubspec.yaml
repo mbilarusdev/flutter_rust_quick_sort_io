@@ -1,0 +1,27 @@
+name: rust_quick_sort
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_rust_bridge: 2.11.1
+  freezed_annotation: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  integration_test:
+    sdk: flutter
+  freezed: ^3.2.5
+  build_runner: ^2.12.1
+
+flutter:
+  uses-material-design: true
